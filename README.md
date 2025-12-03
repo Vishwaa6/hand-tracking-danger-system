@@ -18,3 +18,17 @@
 ```bash
 python 3.8+
 pip install -r requirements.txt
+
+## State Visuals
+
+### 🟢 SAFE Zone
+This image shows when the hand is far from the boundary — fully safe.
+<img src="Safe.png" width="350">
+
+### 🔴 DANGER Zone
+This image shows the fingertip touching/entering the boundary — danger state is triggered.
+<img src="Danger.png" width="350">
+
+### ⚙️ CONTROL Reference
+This image is used for adjusting or referencing the boundary placement.
+<img src="Control.png" width="350">
