@@ -12,7 +12,6 @@
 ## Files
 - `hand_boundary_poc.py` — main demo script (OpenCV + NumPy)
 - `requirements.txt` — Python dependencies
-- `demo/demo_video.mp4` — short demo showing SAFE → WARNING → DANGER (optional)
 
 ## Visual Examples
 
@@ -36,6 +35,7 @@ This screenshot shows the adjustable HSV and proximity controls used during cali
 ```bash
 python 3.8+
 pip install -r requirements.txt
+
 
 
 
