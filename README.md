@@ -18,19 +18,24 @@
 
 ### 🟢 SAFE Zone
 This image shows when the hand is far from the boundary — fully safe.
+
 ![Safe](https://raw.githubusercontent.com/Vishwaa6/hand-tracking-danger-system/main/Safe.png)
 
 ### 🔴 DANGER Zone
 Here, the hand moves too close to the virtual object. The system switches to **DANGER**, triggering the on-screen alert.
+
 ![Danger](https://raw.githubusercontent.com/Vishwaa6/hand-tracking-danger-system/main/Danger.png)
 
 ### ⚙️ CONTROL Reference
 This screenshot shows the adjustable HSV and proximity controls used during calibration to fine-tune the detection under different lighting conditions.
+
 ![Control](https://raw.githubusercontent.com/Vishwaa6/hand-tracking-danger-system/main/Control.png)
+
 
 ## Requirements
 ```bash
 python 3.8+
 pip install -r requirements.txt
+
 
 
